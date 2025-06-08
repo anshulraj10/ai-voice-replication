@@ -178,4 +178,11 @@ cython_debug/
 processed/
 
 # Checkpoints
-checkpoints/
+checkpoints/v1/*
+checkpoints/v2/*
+
+# Outputs
+static/outputs/*
+
+# Uploads
+static/uploads/*
